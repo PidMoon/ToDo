@@ -1,0 +1,8 @@
+{
+  "name": "ToDo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PidMoon/ToDo.git",
+  "author": "PidMoon <pidmoonq@gmail.com>",
+  "license": "MIT"
+}
